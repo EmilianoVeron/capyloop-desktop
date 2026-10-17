@@ -7,7 +7,7 @@ Downloads for the Capyloop desktop app. Pick the latest release on the right, th
 | Mac with Apple Silicon (M1 or later) | `Capyloop-<version>-mac-arm64.dmg` |
 | Mac with Intel | `Capyloop-<version>-mac-x64.dmg` |
 | Windows | `Capyloop-<version>-windows-setup.exe` |
-| Linux | `Capyloop-<version>-linux-x64.AppImage` |
+| Linux | `Capyloop-<version>-linux-x86_64.AppImage` |
 
 The app also needs [git](https://git-scm.com) and the [GitHub CLI](https://cli.github.com). Setup steps are in the guide your company received.
 
